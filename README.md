@@ -55,7 +55,7 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 **Author**: Sudesh-co  
-📫 [LinkedIn Profile](https://www.linkedin.com/in/your-profile)  
+📫 [LinkedIn Profile]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/sudesh-bagawe-2b443b289/)  
 
 ---
 
